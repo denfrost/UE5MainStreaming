@@ -6,3 +6,7 @@
 b8d2bce188d9f9b354f96731141fd3aa82ee3e4e
 Plugs
 "HardwareEncoders"
+"Pixel Streaming"
+Runtime
+AVEncoder.Build.cs
+CUDA.Build.cs
