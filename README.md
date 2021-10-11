@@ -1,16 +1,16 @@
-# UE5MainStreaming
+# UE5MainStreaming CL date 11.10.2021
 
-#4.27 transfer to 
-#5.0EA2
+#4.27.0 release PS1.0 transfer to 
+#5.0  main 
 
-b8d2bce188d9f9b354f96731141fd3aa82ee3e4e delta 4.27/ue5.0
-Plugs
+delta 4.27/ue5.0
+--Plugins
 "HardwareEncoders"
 "Pixel Streaming"
-Runtime
+--Runtime
 AVEncoder.Build.cs
 CUDA.Build.cs
-Samples
-PixelStreaming
-
-Next Step update uemain 
+GameplayMediaEncoder.Build.cs
+--ThirdPArty
+Nvidia
+CUDA
